@@ -1,0 +1,37 @@
+do not remove jumper of relay which is connected to jd-vcc and vcc (you dont need it now, just leave as it is)
+
+Connection for 4 channel relay
+
+Connect
+
+GND of relay to GND(any GND) of ESP 8266 
+VCC of relay to 3V3(any 3V3) of ESP 8266 
+IN1 of relay to D1 of ESP 8266 
+IN2 of relay to D2 of ESP 8266 
+IN3 of relay to D3 of ESP 8266 
+IN4 of relay to D4 of ESP 8266 
+
+
+
+Connection for 8 channel relay
+
+Connect
+
+GND of relay to GND(any GND) of ESP 8266 
+VCC of relay to 3V3(any 3V3*) of ESP 8266 
+IN1 of relay to D1 of ESP 8266 
+IN2 of relay to D2 of ESP 8266 
+IN3 of relay to D3 of ESP 8266 
+IN4 of relay to D4 of ESP 8266 
+IN5 of relay to D5 of ESP 8266
+IN6 of relay to D6 of ESP 8266
+IN7 of relay to D7 of ESP 8266
+IN7 of relay to D8 of ESP 8266
+
+*3V3 means 3.3 volts, dont worry to give 5V adapter power supply, 
+ because there other circuit to care of excess voltage in ESP 8266
+ you can use any indian mobile brand charger.
+
+ All the switch line number are printed in ESP 8266 module.
+
+ 							-AG Manjunath

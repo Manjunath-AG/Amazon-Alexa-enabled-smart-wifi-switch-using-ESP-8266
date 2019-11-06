@@ -1,0 +1,17 @@
+After setting your alexa device to internet!
+
+
+ask alexa to discover new device
+
+ if error, upload source code twice to node mcu
+
+ if alexa found only 3 outlet, ask alexa to discover device again or you discover device through alexa app in mobile
+
+ then you will find 4 light switch and 4 outlet switch total 8 because source code is written to hand 1,2,4,8 channel relay
+          if your using 4 channel relay remove excess 4 switch in alexa app in mobile because its of no use to you
+          you can customiz switch name in alexa app, you can also create routine in alexa
+          Or you can edit source code in ardino application in desktop (re edit source again and agin, upload it when it works)
+ 
+       - so that it thankyou, 
+       -AG Manjunth
+

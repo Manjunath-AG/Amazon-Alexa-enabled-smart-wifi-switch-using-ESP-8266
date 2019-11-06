@@ -1,0 +1,23 @@
+download and install arduino application from internet to your OS (linux,windows,mac)
+
+now open the application 
+
+add the above libraries to the application 
+goto sketch
+  goto include library
+    hit add zip file.
+
+after adding libraries
+
+relaunch arduino application 
+ goto tools
+  goto board 
+    select [NodeMcu 1.0 (ESP-12E module)]
+ goto tools and select upload speed at 115200.
+ goto tools and select port 'com1, or com 2 or com3' to which Node muc is connected, 
+ by default application will detect it.
+
+i have verified every source code in this project its correct,
+ you can modifi if you wandet, but for beginners who do not know how to code, dont modifi it.
+
+				  		-AG Manjunath.

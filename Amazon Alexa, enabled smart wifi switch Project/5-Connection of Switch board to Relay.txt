@@ -1,0 +1,27 @@
+If to take a look at 4 channel relay
+ 
+ there will be 4 larger cube, each cube represent a relay (8 cube in 8 channel relay)
+ 
+ each relay has 3 output.
+ 
+ middle output is where line of switch board pannel should be connected
+ k1 (if its 1st relay) output is where ground of switch board pannel should be connected
+ on the other side (that is 3rd output of relay) is always connected, which means even when relay in
+ off state, it will be connected (so we dont need it now)
+ 
+ Connection of relay to switch board pannel (safty first, wear glous, and slippers, and turn off main switch board of your house)
+   now open any switch board pannel of your chosen room you wish to connect to alexa (that is bedroom, living, study room , kitchen etc
+
+ therefore light,fan,ac,laptop switch all electronic devices main line should be connected to middle output of relay
+ and ground of electronic devices should be connected to k output(k1 or k2 or k3 or k4,) relay
+
+ check whether connection or working or not using alexa if yes good you did an awesome work
+ 
+ now if possibel keep adapter,relay,node mcu esp 8266 in side switch board panal, or make your own plastic box and try
+ to fit in all the components and fix it to the wall next to switch board ( because it looks cool)
+
+
+  so thats it, enjoy, be innovative, and invent.
+  thankyou for following, ur are greate, 
+
+                             -AG Manjunath

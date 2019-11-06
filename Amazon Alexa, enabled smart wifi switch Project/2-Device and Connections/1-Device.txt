@@ -1,0 +1,22 @@
+you will need the following items
+
+
+ First of all you will need a wifi connection, you can also use mobile hotspot,
+ but wifi is prefered.
+
+ amazon echo (any model), (order online amazon.in)
+
+ esp 8266 module [NodeMcu 1.0 (ESP-12E module)]*
+
+ 4 channel relay or 8 channel relay*
+
+ 6 male to male jumper wire*
+
+ extra 2 meter wire to connect relay to main switch*
+
+ 5v-1A adapter to power esp 8266, power to relay given by eps 8266.*
+
+*Order online or, if u stay in bangalore go to kr market, sp road, where you
+ will find many wholesale dealers, who will sell you the above devices and item
+
+                                                             -AG Manjunath.

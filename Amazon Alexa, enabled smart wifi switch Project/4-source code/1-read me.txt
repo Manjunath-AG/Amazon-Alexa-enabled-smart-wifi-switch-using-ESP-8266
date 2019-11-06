@@ -1,0 +1,20 @@
+connect USB cable to laptop or desktop
+
+open echo folder and launch echo and all the other folders will get open in aurdino application,
+after selecting device(node mcu esp8266) and com port, 
+upload speeed should be 115200 in source code window and serial monitor.
+
+you can edit code if you want
+
+while uploading open serial moniter
+
+if upload didnt work, upload it twice or thrice.
+
+change ssid and password to wifiname and wifi password in arduino application
+
+* you can also edit the source code to check wether if you want all the switch on when node mcu gets power,
+  or off, you can also do this is alexa app (through routine option) in mobile once the device is discovered.
+
+
+											-AG Manjunath
+
