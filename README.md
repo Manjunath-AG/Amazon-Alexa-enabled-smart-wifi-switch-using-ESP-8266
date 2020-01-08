@@ -15,7 +15,7 @@ Project to control all the switch in premises via voice command
 
 
 
-PROCEGURE-
+PROCEDURE-
 
  follow step-by-step (numerical method)
 
@@ -28,16 +28,11 @@ PROCEGURE-
  source code is in c and c++ language!
 
  if you find any error doing this project, keep trying, i have documented everything, so keep trying,
- commend me below about the error, search for error in internet, else do everything in this chapter
- all over again, then it will definetly work.
+ search for error in internet, else do everything in this chapter all over again, then it will definetly work.
 
 
 
- Contact details
-  
- email - www.manjunathaggowdar@gmail.com 
- phone - 8147307478,6361369665
-  ( i will respond you with in a day)
+
 
                  thankyou,
  			-AG Manjunath.
