@@ -25,7 +25,7 @@ PROCEDURE-
 
  I have done many combination of trial and error, this documentation in the best for working condition.
  
- source code is in c and c++ language!
+ source code is in c++ language!
 
  if you find any error doing this project, keep trying, i have documented everything, so keep trying,
  search for error in internet, else do everything in this chapter all over again, then it will definetly work.
